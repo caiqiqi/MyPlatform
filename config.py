@@ -1,9 +1,9 @@
 #coding=utf8
 
-TOKEN = ''
-APP_ID = ''
-SECRET_KEY = ''
-TULING_KEY = ''
+TOKEN = 'caiqiqistudentinfo'
+APP_ID = 'wx0cf9de76deef346c'
+SECRET_KEY = '049acf4e2602cf0a21439c5e407775d7'
+TULING_KEY = 'b3827b85168c97dc6391c406d7b35ef5'
 ADMIN_OAUTH = 'admin_oauth'
 WELCOME_WORD = u'''\
 欢迎关注我的微信号！
